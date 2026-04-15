@@ -95,7 +95,7 @@ When a regulatory landscape is known through alternative datasets, it is importa
 
 ### Degenerate bases in primers
 
-To account for the possibility that there could be deaminations within primer binding sites, our initial publication used primers designed with degeneracy at G genomic positions in the form of randomly incorporated G or A (IDT). Given the point above regarding nucleosome protection, we later reconsidered this design and tested whether degenerate bases facilitate amplification. In general, we found that targets amplified better without degenerate bases.
+To account for the possibility that there could be deaminations within primer binding sites, our initial publication used primers designed with degeneracy at G genomic positions in the form of randomly incorporated G or A (IDT). Given the point above regarding nucleosome protection, we later reconsidered this design and tested whether degenerate bases facilitate amplification. In general, we found that targets amplified better without degenerate bases. For most of the primers we tested, yields were increased without degenerate bases with no significant impact to strand bias and deamination rates observed in sequenced reads. For analyses and additional details see [here](degeneracy_analyses.html).
 
 ### Selection of PCR polymerase
 
